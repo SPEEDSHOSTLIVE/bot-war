@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Contact Me on wa.me/6288213049469
+   * Follow https://github.com/Zeron91/bot-war
 */
 
 const fs = require('fs')
@@ -14,7 +14,7 @@ global.ownername = 'Lukman XD'
 global.packname = 'Lukman XD??'
 global.author = 'WhatsApp 👿'
 global.sessionName = 'KONYOL'
-global.linkgrupss = 'https://chat.whatsapp.com/DxOZJuGqqddDnJCxu0SFsU'
+global.linkgrupss = 'https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
