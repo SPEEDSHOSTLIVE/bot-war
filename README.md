@@ -1,242 +1,89 @@
-#deploy#
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
-
-
-</p>
-<p align="center">
-<a href="#"><img title="LUKMAN MULTI DEVICE" src="https://img.shields.io/badge/LUKMAN MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Haruka-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-
-<p align="center"
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#donate">Donate</a>
-</p>
-</div>
-
-
----
-
-# Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-## For Termux
-```ts
-apt update && apt upgrade
-pkg install bash nodejs ffmpeg libwebp git mc yarn
-git clone https://github.com/zeeone-ofc/Haruka-Md.git
-cd Haruka-Md
-yarn
-rm -rf session.json
-npm start
-```
-
-## Edit file
-`./config.json`
-```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
-    "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
-    "BotKey": "V12",
-    "auto_welcomeMsg": true,
-    "auto_leaveMsg": true,    
-    "autobio": true,
-    "gamewaktu": 90,
-    "limitCount": 25,
-    "gcount": {
-        "prem": 1000,
-        "user": 15
-    }
-}
-```
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
-
-----------
+<img src="https://github.com/Zeron91/bot-war" alt="LUKMAN XD "width="200"/>
 
 <p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+    <a href="https://github.com/Zeron91/bot-war">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+lukman+bot+🤗"
+            alt="lukmanxD"
+        />
+    </a>
 </p>
-
-#DONATE BUAT BELI JAJAN
-
-- [Pulsa](6288292024190)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y)
 <p align="center">
-
-<img src="https://github.com/Zeron91/bot-war/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
-
-</p>
-
-<p align="center">
-
-<a href="#"><img title="LUKMAN MULTI DEVICE" src="https://img.shields.io/badge/LUKMAN MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Zeron91/bot-war"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-
-<a href="https://github.com/Zeron91/bot-war/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
-
-<a href="https://github.com/Zeron91/bot-war/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
-
-<a href="https://github.com/Zeron91/bot-war/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
-
+<a href="https://github.com/Zeron91/bot-war"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/Zeron91/bot-war"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Haruka?color=blue&style=flat-square"></a>
+<a href="https://github.com/Zeron91/bot-war"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Haruka?color=red&style=flat-square"></a>
+<a href="https://github.com/Zeron91/bot-war"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Haruka?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Zeron91/bot-war"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-
-<a href="https://github.com/Zeron91/bot-war/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Haruka-Md?style=flat-square&color=green"></a>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-
-<a href="https://github.com/Zeron91/bot-war/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-
+<a href="https://github.com/Zeron91/bot-war"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Haruka?style=flat-square&color=green"></a>
+<a href="https://github.com/Zeron91/bot-war"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Zeron91/bot-war"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center"
-
-  <a href="https://github.com/Zeron91/bot-war#instalasi">Installation</a> •
-
-  <a href="https://github.com/Zeron91/bot-war#thanks-to">Thanks to</a> •
-
-  <a href="https://github.com/Zeron91/bot-war#Official-Group"> Official Group Bot</a> •
-
-  <a href="https://github.com/Zeron91/bot-war#donate">Donate</a>
-
 </p>
-
 </div>
 
----
 
 # Instalasi
-
 ## Heroku Buildpack
 
+Click the deploy icon below !
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Haruka)
+
 ```bash
-
-heroku/nodejs
-
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-
+ > heroku/nodejs
+ > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+ > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## For Termux
+## Termux
+```bash
+> apt update && apt upgrade
+> pkg install libweb nodejs git ffmpeg
+> git clone https://github.com/Zeron91/bot-war
+> cd bot-war
+> npm install
+> node npm.start
+```
+
+## settings
+You can edit owner and other in `'./settings/config.json'`
 
 ```ts
-
-apt update && apt upgrade
-
-pkg install bash nodejs ffmpeg libwebp git mc yarn
-
-git clone https://github.com/Zeron91/bot-war.git
-
-cd Haruka-Md
-
-yarn
-
-rm -rf session.json
-
-npm start
-
-```
-
-## Edit file
-
-`./config.json`
-
-```{
-
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-
-    "instagram" : "https://instagram.com/zeeoneofc",
-
-    "botName": "Haruka-Mdོ ",
-
-    "footer": "api.zeeoneofc.xyz",
-
-    "sessionName": "session",
-
-    "pathimg": "./media/Haruka.jpg",
-
-    "BotKey": "V12",
-
-    "auto_welcomeMsg": true,
-
-    "auto_leaveMsg": true,    
-
-    "autobio": true,
-
-    "gamewaktu": 90,
-
-    "limitCount": 25,
-
-    "gcount": {
-
-        "prem": 1000,
-
-        "user": 15
-
-    }
-
+{
+	global.owner = ['6288213049469']
+global.premium = ['6288213049469']
+global.ownername = 'Lukman XD'
+global.packname = 'Lukman XD??'
+global.author = 'WhatsApp 👿'
+global.sessionName = 'KONYOL'
+global.linkgrupss = ' https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y'
+global.prefa = ['','!','.','🐦','🐤','🗿']
+global.sp = '⭔'
+global.mess = {
+    success: 'Donee',
+    admin: 'Fitur Khusus Admin Group!',
+    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    owner: 'Fitur Khusus Owner Bot',
+    group: 'Fitur Digunakan Hanya Untuk Group!',
+    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    wait: 'Espere a que su solicitud sea procesada',
+    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
-
+global.limitawal = {
+    premium: "Infinity",
+    free: 100
+}
 ```
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
-
-----------
-
-<p align="center">
-
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-
-</p>
-
-#DONATE BUAT BELI JAJAN
-
-- [Pulsa](6288292024190)
+## Donate
+BUAT BELI PC RANKIT BANH🗿
+(NOMER) (6288292024190)
 
 # Official Group
+- - [Group 5](https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y)
 
-- [Group 1](https://chat.whatsapp.com/GKNbQLxByhe2eZtEnZwF3Y)
+# Thanks To
+- My Good
+-Lukman Bot
